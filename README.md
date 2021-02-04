@@ -17,8 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img src="flutter_01.png" height=500>
-<img src="flutter_02.png" height=500>
+<img src="flutter_01.png" height=500> <img src="flutter_02.png" height=500>
 
 ## Thanks to
 
